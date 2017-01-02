@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "934530008843",
+    "firebase_url": "https://ribbit-333e4.firebaseio.com",
+    "project_id": "ribbit-333e4",
+    "storage_bucket": "ribbit-333e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934530008843:android:9fc64bcbe6226432",
+        "android_client_info": {
+          "package_name": "com.sparkapps.ribbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934530008843-70jq5uke6h37pc6ebijkn6rab2n6lctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdcdS-R5gr7AzLTZRigU-r2dRZ8caHIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
